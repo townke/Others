@@ -1,0 +1,14 @@
+<html>
+<head>
+<style>
+.testcss{
+  background:#065;
+	color:#0f0;
+}
+</style>
+</head>
+<body>
+hello
+<div class="testcss">this is test words</div>
+</body>
+</html>
